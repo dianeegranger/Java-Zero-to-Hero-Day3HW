@@ -1,0 +1,2 @@
+# Java-Zero-to-Hero-Day3HW
+Assignment:    Define a class "Employee" with the following members:  int eid String name float salary inputDetails() showDetails()   The data members should be private and you should use inputDetails() and showDetails() to set the details and to print the details respectively.    Define a driver class "EmployeeDetails" which will drive the entire program i.e. it will contain the main method.
